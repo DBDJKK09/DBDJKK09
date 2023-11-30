@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about about almost anything you want
 - 📫 You can contact me at my email, although I am not always active, I usually check my email
 - 😄 You can call me by my name or by any abbreviation like "dbd"
+- 🤑 Stack: HTML, JAVASCRIPT, PYTHON, C, C++, CSS, SHELL, BATCH, GO ...
 -->
